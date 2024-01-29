@@ -1,4 +1,4 @@
-# [NTIRE Real-Time 4K Super-Resolution](https://cvlai.net/ntire/2023/) @ CVPR 2023
+# TDB
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eduardzamfir/NTIRE23-RTSR)
